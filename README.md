@@ -49,3 +49,12 @@ There are several things that I learnt while building this project. I am sharing
  4. __Random function__ : E.g.,`randIntn(500)`, `rand.Seed(time.Now().Unix())`;
       * Refer to [this](https://stackoverflow.com/questions/68203678/golang-rand-int-why-every-time-same-values) if you get stuck
  5. __Delete from a map__ : `delete(mapName, key)`
+
+Here are some images of the workflow 
+<img width="661" alt="Screenshot 2025-03-29 at 12 40 56 AM" src="https://github.com/user-attachments/assets/68719a17-ebdc-474a-8c3a-0f06bb6cd51e" />
+
+
+<img width="808" alt="Screenshot 2025-03-29 at 12 41 31 AM" src="https://github.com/user-attachments/assets/15860871-2385-4a0d-ac2e-c79c58737314" />
+
+<img width="849" alt="Screenshot 2025-03-29 at 12 41 50 AM" src="https://github.com/user-attachments/assets/0b6d14b2-1f95-40b6-990a-7f8c95002d6a" />
+
